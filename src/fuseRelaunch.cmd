@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Osman Alperen/Desktop/WorkSpace/digital_Logic_Design/proje/proje1.2/ebob_tb_isim_beh.exe" -prj "C:/Users/Osman Alperen/Desktop/WorkSpace/digital_Logic_Design/proje/proje1.2/ebob_tb_beh.prj" "work.ebob_tb" "work.glbl" 
